@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{BAC50E83-1606-4253-BE77-F2D192567099}">
+	<children>
+		<child name="KRBS_DEMO_PROJECT" key="{30C60D7F-6A21-4328-996D-C6C10070E3A6}" path="KRBS_DEMO_PROJECT\KRBS_DEMO_PROJECT.mds" />
+	</children>
+	<testItems key="{EF52E583-5DB4-43AA-BEFF-9B448EC67AB2}">
+		<children>
+			<testItem key="{30C60D7F-6A21-4328-996D-C6C10070E3A6}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{0638C689-BC03-4348-AD07-62E59558E880}" />
+	<analysis key="{CBEC0AAA-D384-4E8E-A1D9-388E2B52DFBD}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
